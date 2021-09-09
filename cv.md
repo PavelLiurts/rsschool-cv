@@ -18,9 +18,9 @@
 - <h5>Functional testing of CRM system and user interface</h5>
 - <h5>Error registration in the bug-tracking system</h5>
 
-*2012 – 2017*
-<h4>*Customer service specialist*</h4>
-*Hilti BY*
+*2012 – 2017
+<h4>Customer service specialist</h4>
+Hilti BY*
 
 - <h5>Consultation of clients on technical and commercial issues, forming of invoices, contracts, and transport accompanying documents (SAP Business ByDesign, MS Navision)</h5>
 - <h5>Drafting of documentation and collection of data for participation in exchange trading and public procurement on icetrade.by and BUTB sites</h5>
