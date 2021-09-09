@@ -1,11 +1,9 @@
 <h1>Pavel liurts</h1>
+<h3>Junior Web Developer<h3>
+<h4>Contacts<h4>
 
-<h2>Junior Web Developer<h2>
-
-<h3>Contacts<h3>
-
-- <h4>pavel.build@gmail.com</h4>
-- <h4>+375(29)5522051</h4>
+- <h5>pavel.build@gmail.com</h5>
+- <h5>+375(29)5522051</h5>
 - [Linkedin](https://www.linkedin.com/in/pavel-liurts/)
 
 <h4>English Proficiency: A2</h4>
@@ -24,29 +22,29 @@ Megaplan*
 Customer service specialist
 Hilti BY*
 
-- Consultation of clients on technical and commercial issues, forming of invoices, contracts, and transport accompanying documents (SAP Business ByDesign, MS Navision)
-- Drafting of documentation and collection of data for participation in exchange trading and public procurement on icetrade.by and BUTB sites
-- Cashless/cash settlement operations, cash reporting, encashment, claims handling
+- <h5>Consultation of clients on technical and commercial issues, forming of invoices, contracts, and transport accompanying documents (SAP Business ByDesign, MS Navision)</h5>
+- <h5>Drafting of documentation and collection of data for participation in exchange trading and public procurement on icetrade.by and BUTB sites</h5>
+- <h5>Cashless/cash settlement operations, cash reporting, encashment, claims handling</h5>
 
 *2010 – 2012
 Teacher
 Belarusian state college of the building materials industry*
 
-- Writing the didactic material
-- Curriculum and education programs planning
-- Records management
+- <h5>Writing the didactic material</h5>
+- <h5>Curriculum and education programs planning</h5>
+- <h5>Records management</h5>
 
 <h3>Education</h3>
 
 *Aug. 2019 – Nov. 2019
 IT Academy
-Python Web Development*
+- Python Web Development*
 
 *2005 – 2010
 Belarusian National Technical University Engineer
-Builder technologist*
+- Builder technologist*
 
 <h3>Skills</h3>
 
-<h2>Python 3</h2>
-<h2>Django Web Framework</h2>
+- <h5>Python 3</h5>
+- <h5>Django Web Framework</h5>
