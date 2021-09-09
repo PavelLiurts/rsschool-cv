@@ -4,9 +4,9 @@
 
 <h3>Contacts<h3>
 
-**pavel.build@gmail.com**
-**+375(29)5522051**
-**[Linkedin](https://www.linkedin.com/in/pavel-liurts/)**
+- <h4>pavel.build@gmail.com</h4>
+- <h4>+375(29)5522051</h4>
+- [Linkedin](https://www.linkedin.com/in/pavel-liurts/)
 
 <h4>English Proficiency: A2</h4>
 
@@ -16,25 +16,25 @@
 Technical support specialist
 Megaplan*
 
-*Analysis of requests from users in the request control system
-*Functional testing of CRM system and user interface
-*Error registration in the bug-tracking system
+- <h5>Analysis of requests from users in the request control system</h5>
+- <h5>Functional testing of CRM system and user interface</h5>
+- <h5>Error registration in the bug-tracking system</h5>
 
 *2012 – 2017
 Customer service specialist
 Hilti BY*
 
-*Consultation of clients on technical and commercial issues, forming of invoices, contracts, and transport accompanying documents (SAP Business ByDesign, MS Navision)
-*Drafting of documentation and collection of data for participation in exchange trading and public procurement on icetrade.by and BUTB sites
-*Cashless/cash settlement operations, cash reporting, encashment, claims handling
+- Consultation of clients on technical and commercial issues, forming of invoices, contracts, and transport accompanying documents (SAP Business ByDesign, MS Navision)
+- Drafting of documentation and collection of data for participation in exchange trading and public procurement on icetrade.by and BUTB sites
+- Cashless/cash settlement operations, cash reporting, encashment, claims handling
 
 *2010 – 2012
 Teacher
 Belarusian state college of the building materials industry*
 
-*Writing the didactic material
-*Curriculum and education programs planning
-*Records management
+- Writing the didactic material
+- Curriculum and education programs planning
+- Records management
 
 <h3>Education</h3>
 
