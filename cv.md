@@ -37,12 +37,12 @@ Belarusian state college of the building materials industry*
 <h3>Education</h3>
 
 *Aug. 2019 – Nov. 2019
-IT Academy
-- Python Web Development*
+IT Academy*
+<h4>Python Web Development</h4>
 
 *2005 – 2010
-Belarusian National Technical University Engineer
-- Builder technologist*
+Belarusian National Technical University Engineer*
+<h4>Builder technologist</h4>
 
 <h3>Skills</h3>
 
