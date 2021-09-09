@@ -38,11 +38,11 @@
 
 *Aug. 2019 – Nov. 2019
 IT Academy*
-<h4>Python Web Development</h4>
+<h5>Python Web Development</h5>
 
 *2005 – 2010*<br>
-*Belarusian National Technical University Engineer*<br>
-<h4>Builder technologist</h4>
+*Belarusian National Technical University Engineer*
+<h5>Builder technologist</h5>
 
 <h3>Skills</h3>
 
