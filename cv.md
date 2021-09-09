@@ -10,25 +10,25 @@
 
 <h3>Work Experience </h3>
 
-*2017 – now
-Technical support specialist
-Megaplan*
+*2017 – now*
+*Technical support specialist*
+*Megaplan*
 
 - <h5>Analysis of requests from users in the request control system</h5>
 - <h5>Functional testing of CRM system and user interface</h5>
 - <h5>Error registration in the bug-tracking system</h5>
 
-*2012 – 2017
-Customer service specialist
-Hilti BY*
+*2012 – 2017*
+*Customer service specialist*
+*Hilti BY*
 
 - <h5>Consultation of clients on technical and commercial issues, forming of invoices, contracts, and transport accompanying documents (SAP Business ByDesign, MS Navision)</h5>
 - <h5>Drafting of documentation and collection of data for participation in exchange trading and public procurement on icetrade.by and BUTB sites</h5>
 - <h5>Cashless/cash settlement operations, cash reporting, encashment, claims handling</h5>
 
-*2010 – 2012
-Teacher
-Belarusian state college of the building materials industry*
+*2010 – 2012*
+*Teacher*
+*Belarusian state college of the building materials industry*
 
 - <h5>Writing the didactic material</h5>
 - <h5>Curriculum and education programs planning</h5>
