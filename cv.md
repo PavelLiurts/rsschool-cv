@@ -8,3 +8,5 @@
 **+375(29)5522051**
 **[Linkedin](https://www.linkedin.com/in/pavel-liurts/)**
 
+<h4>English Proficiency: A2</h4>
+
