@@ -69,6 +69,46 @@ body{
     line-height: 1.4em;
 }
 
+.profile h2 span{
+    font-size: 0.8em;
+    font-weight: 300;
+}
+
+.contacts{
+    padding-top: 40px;
+}
+
+.title{
+    color:#fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.contacts ul{
+    position: relative;
+}
+
+.contacts ul li{
+    position: relative;
+    list-style: none;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.contacts ul li .icon{
+    display: inline-block;
+    width: 30px;
+    font-size: 18px;
+    color:#03a9f4
+}
+
+.contacts ul li span{
+    color: #fff;
+    font-weight: 300;
+}
+
 .container .right_side{
     position: relative;
     background: #fff;
