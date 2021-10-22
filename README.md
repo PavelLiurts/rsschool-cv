@@ -1,1 +1,0 @@
-https://pavelliurts.github.io/rsschool-cv/
