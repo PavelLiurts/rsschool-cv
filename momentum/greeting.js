@@ -1,14 +1,12 @@
 const date = new Date();
 const hours = Number(date.getHours());
-console.log(hours)
-
 
 function getTimeOfDay(){
     if (hours >= 6.00 & hours <= 11.59  ) {
         return 'morning';
-    }else if (hours <= 17.59 ) {
+    }else if (hours >=12.00 & hours <= 17.59 ) {
         return 'afternoon';
-    }else if (hours <= 23.59 & hours <= 18.00) {
+    }else if (hours >= 18.00 & hours <= 23.59) {
         return 'evening';
     }else {
         return 'night';
