@@ -10,7 +10,7 @@ showTime ();
 
 function showDate() {
     const date = new Date();
-    const options = {month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric', timeZone: 'UTC'};
+    const options = {month: 'long', day: 'numeric'};
     const currentDate = date.toLocaleDateString('ru-RU', options);
     return document.querySelector('.date').innerHTML=currentDate;
 }
